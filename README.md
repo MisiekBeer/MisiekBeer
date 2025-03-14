@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MisiekBeer
 - 👀 I’m interested in Programming/ Architecture/ Databases/ Board, Tabletop and Computer games :)
-- 🌱 I’m currently learning Blazor / DevOps
+- 🌱 I’m currently learning DevOps and vibe programming :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
